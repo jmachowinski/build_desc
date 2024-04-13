@@ -213,7 +213,7 @@ repositories:
     version: rolling
   ros2/demos:
     type: git
-    url: https://github.com/cellumation/demos.git
+    url: https://github.com/ros2/demos.git
     version: rolling
   ros2/eigen3_cmake_module:
     type: git
@@ -281,8 +281,8 @@ repositories:
     version: rolling
   ros2/rclcpp:
     type: git
-    url: https://github.com/cellumation/rclcpp.git
-    version: exception_handling
+    url: https://github.com/jmachowinski/rclcpp.git
+    version: callback_after_cancel
   ros2/rclpy:
     type: git
     url: https://github.com/ros2/rclpy.git
